@@ -34,4 +34,4 @@ CyberAI is an educational assistant. Always perform security testing only on sys
 
 See the project setup instructions in this repository's README and deployment documentation. Configure your Gemini API key in the backend environment file before running the application.
 
-**Note:** Never commit API keys, passwords, or other secrets to GitHub.
+
